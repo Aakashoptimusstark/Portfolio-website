@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "AI Chatbot Tool",
+    "Tech Stack": "React 19, Tailwind CSS, Gemini AI API, JavaScript",
+    "description": "Integrated Gemini AI API for natural language response generation. \nDynamic and responsive chat interface built in React·Real-time user input handling and output rendering·Tailwind CSS for sleek and mobile-friendly design·.env-based environment variable handling for API key management.",
+    "image": "../images/p1.png",
+    "link": "https://github.com/Aakashoptimusstark/AI-Chatbot-Tool-Reactjs" 
+  },
+  {
+    "id": 2,
+    "title": "Facebook Card Generator",
+    "Tech Stack": "HTML, CSS & JavaScript",
+    "description": "Designed and built a tool that generates customizable Facebook-style profile card. \nImplemented dynamic input handling for name, profile picture, and bio section. \nFocused on responsive design for a smooth user experience across devices.",
+    "image": "../images/p2.png",
+    "link": "https://github.com/Aakashoptimusstark/Facebook_Card_Generator"
+  },
+  {
+    "id": 3,
+    "title": "Functional Myntra Clone",
+    "Tech Stack": "HTML, CSS & JavaScript",
+    "description": "Developed a fully functional clone of the Myntra e-commerce website to demonstrate front-end development skills. Integrated JavaScript to handle user interactions such as dynamic filtering, search, add-to-cart features, and basic cart management using local storage.",
+    "image": "../images/p3.png",
+    "link": "https://github.com/Aakashoptimusstark/Functional_Myntra_Clone_Project"
+  },
+  {
+    "id": 4,
+    "title": "Food Recipe Finder App",
+    "Tech Stack": "Reactjs, Tailwind & API",
+    "description": "A responsive web application that allows users to search for a wide variety of food recipes based on ingredients or meal names using an API. The app fetches real-time data from the API and displays rich details, including recipe image, instructions, and ingredients.",
+    "image": "../images/p4.png",
+    "link": "https://github.com/Aakashoptimusstark/Food-recipe-finder"
+  },
+  {
+    "id": 5,
+    "title": "Bat-Ball-Stump Cricket Game",
+    "Tech Stack": "HTML, CSS & JavaScript",
+    "description": "Created an interactive mini cricket-themed game inspired by rock-paper-scissors logic, where the player competes against the computer's random choices. Stump beats Bat\nImplemented game logic using conditional statements and JavaScript event handling. Designed a responsive and visually engaging UI with real-time result updates, score tracking, and reset functionality.",
+    "image": "../images/p5.png",
+    "link": "https://github.com/Aakashoptimusstark/Bat-Ball-Stump-Cricket"
+  },
+  {
+    "id": 6,
+    "title": "Myntra UI Clone",
+    "Tech Stack": "HTML, CSS",
+    "description": "Developed a UI clone of the Myntra e-commerce website to demonstrate front-end development skills. The project replicates the core UI of the original platform, including homepage design, product listing pages, product detail view. Implemented responsive design principles to ensure optimal user experience across devices.",
+    "image": "../images/p6.png",
+    "link": "https://github.com/Aakashoptimusstark/Myntra-Clone-Project"
+  },
+  {
+    "id": 7,
+    "title": "Tic-Tac-Toe",
+    "description": "An interactive Tic-Tac-Toe game built using ReactJS, featuring a responsive UI and dynamic game logic. The game allows two players to compete, tracks the winner, and provides an option to restart the match.",
+    "image": "../images/p7.png",
+    "link": "https://github.com/Aakashoptimusstark/Tic-Tac-Toe"
+  },
+  {
+    "id": 8,
+    "title": "Email & Passward Validator",
+    "description": "A lightweight web app built with HTML, CSS & JavaScript that validates user inputs for email and password fields in real time. It helps demonstrate form validation techniques and improves user experience by showing instant feedback.",
+    "image": "../images/p8.png",
+    "link": "https://github.com/Aakashoptimusstark/Email_-_Password_Validator"
+  },
+  {
+    "id": 9,
+    "title": "To Do APP",
+    "description": "A simple and responsive To-Do application built with ReactJS, designed to help users manage daily tasks efficiently. The app allows users to add, edit, delete, and mark tasks as complete, with a clean and intuitive interface.",
+    "image": "../images/p9.png",
+    "link": "https://github.com/Aakashoptimusstark/Daily-Schedule-Web"
+  }
+  
+]
