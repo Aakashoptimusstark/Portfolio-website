@@ -9,7 +9,7 @@ function Home() {
       <div className="text-center max-w-3xl p-6">
         <h1 className="text-5xl md:text-6xl font-extrabold mb-4 dark:text-gray-300">Aakash Kumar Srivastava</h1>
         <p className="text-2xl min-h-[11vh] font-bold md:text-xl  bg-gradient-to-r from-indigo-600 via-violet-500 to-pink-300 bg-clip-text text-transparent mb-9">Frontend Developer    • React Developer </p>
-        <a href="https://drive.google.com/file/d/1mbcS_Bm0uxzXWG2o4QbKYL063cCY4GBS/view?usp=drive_link" className="hover:scale-105 transform transition inline-block w-35 h-10 m-13 px-6 py-3 rounded-3xl shadow bg-gradient-to-r from-indigo-500 to-pink-500 text-white ">My Resume</a>
+        <a href="https://drive.google.com/file/d/16ZOX-3D2mX-QuXXy620KQjKlZfAXXGW_/view?usp=drive_link" className="hover:scale-105 transform transition inline-block w-35 h-10 m-13 px-6 py-3 rounded-3xl shadow bg-gradient-to-r from-indigo-500 to-pink-500 text-white ">My Resume</a>
         <a href="/Project" className="hover:scale-105 transform transition inline-block w-35 h-10 m-13 px-6 py-3 rounded-3xl shadow bg-gradient-to-r from-indigo-500 to-pink-500 text-white ">My Project</a>
       </div>
     </header>
