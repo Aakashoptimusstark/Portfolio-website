@@ -25,7 +25,7 @@ export default function DarkModeToggle() {
       onClick={toggleTheme}
       className={`hidden md:flex w-[100px] h-[50px] p-[10px] rounded-[50px] cursor-pointer 
         ${theme === "dark" ? "justify-start" : "justify-end"} 
-        bg-gray-300 dark:bg-gray-700`}
+        bg-transparent dark:bg-gray-700`}
     >
       <motion.div
         layout
